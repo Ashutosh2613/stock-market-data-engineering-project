@@ -15,7 +15,7 @@ This project demonstrates a data engineering pipeline for stock market data usin
 4. Loading Data into Snowflake: The transformed data is then loaded into Snowflake using Snowpipe.<br/>
 ### Components 
 
-1. Alpha Vantage API: Provides stock market data. The data is available from year 2001 - 2020. Enter your email to get free api which will allow 25 hits per day. <br/>
+1. Alpha Vantage API: Provides stock market data. The data is available from year 2001 - 2020 , enter your email to get free api which will allow 25 hits per day. <br/>
 
 2. AWS Lambda: Used for data extraction and transformation.<br/>
 
